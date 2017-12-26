@@ -1,2 +1,3 @@
 git is very good
-i very like it 
+i very like it
+good
