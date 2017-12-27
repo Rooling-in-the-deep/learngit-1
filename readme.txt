@@ -8,3 +8,5 @@ good good
 =======
 good  good
 >>>>>>> feature1
+
+add good
