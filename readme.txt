@@ -3,4 +3,8 @@ i very like it
 good
 good
 very good
-good god
+<<<<<<< HEAD
+good good
+=======
+good  good
+>>>>>>> feature1
